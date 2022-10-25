@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buku Kontak</string>
+    <string name="enter_name">Masukkan Nama</string>
+    <string name="enter_email">Masukkan Email</string>
+    <string name="enter_number">Masukkan Nomor Telp.</string>
+    <string name="simpan">Save</string>
+</resources>
